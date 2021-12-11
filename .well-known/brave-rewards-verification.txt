@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ashwotacharya.com.np
+Token: 599ccdcbc7d06394da6ac5bed66f596fd32a9fe605debdcde6f602220234829b
